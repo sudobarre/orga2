@@ -1,0 +1,516 @@
+== Checkpoint 2 ==
+
+alternate_sum_4
+
+alternate_sum_4(211,567,782,862) -> 4294966860
+alternate_sum_4(229,421,784,198) -> 394
+alternate_sum_4(305,84,336,846) -> 4294967007
+alternate_sum_4(87,276,788,403) -> 196
+alternate_sum_4(795,434,467,97) -> 731
+alternate_sum_4(440,31,97,481) -> 25
+alternate_sum_4(528,732,503,270) -> 29
+alternate_sum_4(379,764,841,193) -> 263
+alternate_sum_4(432,437,275,474) -> 4294967092
+alternate_sum_4(776,443,613,606) -> 340
+alternate_sum_4(490,772,644,505) -> 4294967153
+alternate_sum_4(622,299,746,340) -> 729
+alternate_sum_4(522,708,282,924) -> 4294966468
+alternate_sum_4(881,933,660,199) -> 409
+alternate_sum_4(90,376,936,445) -> 205
+alternate_sum_4(206,713,321,819) -> 4294966291
+alternate_sum_4(920,422,396,630) -> 264
+alternate_sum_4(298,524,209,819) -> 4294966460
+alternate_sum_4(579,993,621,504) -> 4294966999
+alternate_sum_4(528,872,958,36) -> 578
+alternate_sum_4(500,788,249,303) -> 4294966954
+alternate_sum_4(436,414,460,28) -> 454
+alternate_sum_4(500,647,159,535) -> 4294966773
+alternate_sum_4(177,238,949,367) -> 521
+alternate_sum_4(261,360,23,81) -> 4294967139
+alternate_sum_4(205,312,100,726) -> 4294966563
+alternate_sum_4(857,312,214,512) -> 247
+alternate_sum_4(338,770,856,606) -> 4294967114
+alternate_sum_4(289,607,757,471) -> 4294967264
+alternate_sum_4(270,417,569,622) -> 4294967096
+alternate_sum_4(574,947,231,537) -> 4294966617
+alternate_sum_4(338,218,970,812) -> 278
+alternate_sum_4(127,236,818,563) -> 146
+alternate_sum_4(805,822,717,93) -> 607
+alternate_sum_4(88,710,294,346) -> 4294966622
+alternate_sum_4(963,90,130,571) -> 432
+alternate_sum_4(195,949,967,763) -> 4294966746
+alternate_sum_4(379,270,172,234) -> 47
+alternate_sum_4(47,82,232,954) -> 4294966539
+alternate_sum_4(272,154,821,365) -> 574
+alternate_sum_4(797,84,334,991) -> 56
+alternate_sum_4(0,109,81,338) -> 4294966930
+alternate_sum_4(590,350,813,494) -> 559
+alternate_sum_4(892,297,134,506) -> 223
+alternate_sum_4(932,21,563,682) -> 792
+alternate_sum_4(528,525,136,618) -> 4294966817
+alternate_sum_4(8,783,657,827) -> 4294966351
+alternate_sum_4(890,199,931,777) -> 845
+alternate_sum_4(266,954,308,278) -> 4294966638
+alternate_sum_4(693,439,421,985) -> 4294966986
+alternate_sum_4(154,15,851,790) -> 200
+alternate_sum_4(970,665,69,361) -> 13
+alternate_sum_4(679,412,969,170) -> 1066
+alternate_sum_4(152,393,289,631) -> 4294966713
+alternate_sum_4(468,960,823,171) -> 160
+alternate_sum_4(42,659,289,469) -> 4294966499
+alternate_sum_4(967,192,902,131) -> 1546
+alternate_sum_4(933,496,141,726) -> 4294967148
+alternate_sum_4(719,641,10,726) -> 4294966658
+alternate_sum_4(613,638,421,829) -> 4294966863
+alternate_sum_4(373,433,587,94) -> 433
+alternate_sum_4(11,133,722,773) -> 4294967123
+alternate_sum_4(705,733,734,315) -> 391
+alternate_sum_4(704,557,403,892) -> 4294966954
+alternate_sum_4(899,589,353,948) -> 4294967011
+alternate_sum_4(123,933,317,931) -> 4294965872
+alternate_sum_4(801,652,340,743) -> 4294967042
+alternate_sum_4(499,794,115,342) -> 4294966774
+alternate_sum_4(346,138,495,421) -> 282
+alternate_sum_4(603,825,216,174) -> 4294967116
+alternate_sum_4(279,953,295,107) -> 4294966810
+alternate_sum_4(939,735,873,164) -> 913
+alternate_sum_4(547,484,561,931) -> 4294966989
+alternate_sum_4(988,320,98,18) -> 748
+alternate_sum_4(853,797,547,516) -> 87
+alternate_sum_4(49,861,334,325) -> 4294966493
+alternate_sum_4(408,349,879,316) -> 622
+alternate_sum_4(366,395,428,847) -> 4294966848
+alternate_sum_4(544,320,518,794) -> 4294967244
+alternate_sum_4(834,596,984,324) -> 898
+alternate_sum_4(879,941,924,135) -> 727
+alternate_sum_4(290,693,339,494) -> 4294966738
+alternate_sum_4(168,813,499,535) -> 4294966615
+alternate_sum_4(793,281,114,371) -> 255
+alternate_sum_4(457,949,523,292) -> 4294967035
+alternate_sum_4(653,52,957,287) -> 1271
+alternate_sum_4(520,221,883,267) -> 915
+alternate_sum_4(968,9,503,254) -> 1208
+alternate_sum_4(854,134,281,973) -> 28
+alternate_sum_4(923,0,0,952) -> 4294967267
+alternate_sum_4(614,937,748,620) -> 4294967101
+alternate_sum_4(569,341,374,605) -> 4294967293
+alternate_sum_4(457,348,17,169) -> 4294967253
+alternate_sum_4(707,400,21,788) -> 4294966836
+alternate_sum_4(520,554,142,930) -> 4294966474
+alternate_sum_4(925,735,492,296) -> 386
+alternate_sum_4(557,576,797,139) -> 639
+alternate_sum_4(724,350,710,242) -> 842
+alternate_sum_4(916,781,958,806) -> 287
+alternate_sum_4(536,906,697,260) -> 67
+
+alternate_sum_4_using_c
+
+alternate_sum_4_using_c(946,367,96,540) -> 135
+alternate_sum_4_using_c(161,934,795,135) -> 4294967183
+alternate_sum_4_using_c(428,52,625,433) -> 568
+alternate_sum_4_using_c(628,799,589,876) -> 4294966838
+alternate_sum_4_using_c(684,490,775,781) -> 188
+alternate_sum_4_using_c(977,257,142,472) -> 390
+alternate_sum_4_using_c(963,38,14,433) -> 506
+alternate_sum_4_using_c(29,892,443,7) -> 4294966869
+alternate_sum_4_using_c(195,889,369,8) -> 4294966963
+alternate_sum_4_using_c(738,193,626,945) -> 226
+alternate_sum_4_using_c(882,573,695,505) -> 499
+alternate_sum_4_using_c(601,144,651,588) -> 520
+alternate_sum_4_using_c(901,664,572,811) -> 4294967294
+alternate_sum_4_using_c(294,556,125,253) -> 4294966906
+alternate_sum_4_using_c(786,594,858,508) -> 542
+alternate_sum_4_using_c(107,53,7,175) -> 4294967182
+alternate_sum_4_using_c(751,501,410,392) -> 268
+alternate_sum_4_using_c(718,423,514,182) -> 627
+alternate_sum_4_using_c(760,186,184,882) -> 4294967172
+alternate_sum_4_using_c(246,555,42,950) -> 4294966079
+alternate_sum_4_using_c(109,264,281,216) -> 4294967206
+alternate_sum_4_using_c(129,12,417,779) -> 4294967051
+alternate_sum_4_using_c(711,643,784,632) -> 220
+alternate_sum_4_using_c(835,58,337,315) -> 799
+alternate_sum_4_using_c(752,709,825,756) -> 112
+alternate_sum_4_using_c(970,841,379,18) -> 490
+alternate_sum_4_using_c(598,113,847,962) -> 370
+alternate_sum_4_using_c(946,784,850,43) -> 969
+alternate_sum_4_using_c(269,709,680,232) -> 8
+alternate_sum_4_using_c(744,618,804,647) -> 283
+alternate_sum_4_using_c(229,148,988,906) -> 163
+alternate_sum_4_using_c(440,64,526,816) -> 86
+alternate_sum_4_using_c(532,408,676,294) -> 506
+alternate_sum_4_using_c(328,509,202,138) -> 4294967179
+alternate_sum_4_using_c(739,554,315,257) -> 243
+alternate_sum_4_using_c(300,216,149,621) -> 4294966908
+alternate_sum_4_using_c(893,61,824,766) -> 890
+alternate_sum_4_using_c(417,96,492,523) -> 290
+alternate_sum_4_using_c(818,504,904,692) -> 526
+alternate_sum_4_using_c(796,445,626,2) -> 975
+alternate_sum_4_using_c(440,584,10,148) -> 4294967014
+alternate_sum_4_using_c(878,342,777,827) -> 486
+alternate_sum_4_using_c(696,149,693,754) -> 486
+alternate_sum_4_using_c(167,636,46,109) -> 4294966764
+alternate_sum_4_using_c(52,368,432,430) -> 4294966982
+alternate_sum_4_using_c(707,573,157,893) -> 4294966694
+alternate_sum_4_using_c(898,477,660,790) -> 291
+alternate_sum_4_using_c(66,229,458,771) -> 4294966820
+alternate_sum_4_using_c(868,247,155,936) -> 4294967136
+alternate_sum_4_using_c(327,196,610,98) -> 643
+alternate_sum_4_using_c(660,528,483,422) -> 193
+alternate_sum_4_using_c(2,238,55,205) -> 4294966910
+alternate_sum_4_using_c(302,91,120,608) -> 4294967019
+alternate_sum_4_using_c(341,223,844,152) -> 810
+alternate_sum_4_using_c(538,171,479,19) -> 827
+alternate_sum_4_using_c(450,166,256,929) -> 4294966907
+alternate_sum_4_using_c(390,882,805,422) -> 4294967187
+alternate_sum_4_using_c(173,215,908,130) -> 736
+alternate_sum_4_using_c(197,472,529,403) -> 4294967147
+alternate_sum_4_using_c(123,72,975,94) -> 932
+alternate_sum_4_using_c(20,874,445,815) -> 4294966072
+alternate_sum_4_using_c(289,817,267,116) -> 4294966919
+alternate_sum_4_using_c(682,263,867,921) -> 365
+alternate_sum_4_using_c(228,90,697,859) -> 4294967272
+alternate_sum_4_using_c(338,337,418,73) -> 346
+alternate_sum_4_using_c(873,39,276,777) -> 333
+alternate_sum_4_using_c(681,192,69,146) -> 412
+alternate_sum_4_using_c(69,176,429,55) -> 267
+alternate_sum_4_using_c(872,916,661,451) -> 166
+alternate_sum_4_using_c(669,196,777,605) -> 645
+alternate_sum_4_using_c(426,323,870,696) -> 277
+alternate_sum_4_using_c(222,825,983,447) -> 4294967229
+alternate_sum_4_using_c(743,50,298,950) -> 41
+alternate_sum_4_using_c(163,764,151,709) -> 4294966137
+alternate_sum_4_using_c(440,493,117,151) -> 4294967209
+alternate_sum_4_using_c(126,16,789,710) -> 189
+alternate_sum_4_using_c(811,471,591,196) -> 735
+alternate_sum_4_using_c(897,96,829,156) -> 1474
+alternate_sum_4_using_c(766,66,749,935) -> 514
+alternate_sum_4_using_c(214,814,340,930) -> 4294966106
+alternate_sum_4_using_c(389,620,442,992) -> 4294966515
+alternate_sum_4_using_c(499,170,752,325) -> 756
+alternate_sum_4_using_c(21,616,938,826) -> 4294966813
+alternate_sum_4_using_c(523,964,132,348) -> 4294966639
+alternate_sum_4_using_c(911,485,472,831) -> 67
+alternate_sum_4_using_c(601,441,397,413) -> 144
+alternate_sum_4_using_c(125,8,122,230) -> 9
+alternate_sum_4_using_c(507,243,826,135) -> 955
+alternate_sum_4_using_c(955,415,949,179) -> 1310
+alternate_sum_4_using_c(202,403,593,475) -> 4294967213
+alternate_sum_4_using_c(967,218,226,446) -> 529
+alternate_sum_4_using_c(566,321,109,352) -> 2
+alternate_sum_4_using_c(712,43,449,216) -> 902
+alternate_sum_4_using_c(131,75,533,70) -> 519
+alternate_sum_4_using_c(633,785,797,190) -> 455
+alternate_sum_4_using_c(1,319,270,537) -> 4294966711
+alternate_sum_4_using_c(425,952,721,332) -> 4294967158
+alternate_sum_4_using_c(675,876,231,454) -> 4294966872
+alternate_sum_4_using_c(514,163,586,624) -> 313
+alternate_sum_4_using_c(822,230,481,566) -> 507
+
+alternate_sum_4_simplified
+
+alternate_sum_4_simplified(177,832,242,482) -> 4294966401
+alternate_sum_4_simplified(378,647,564,993) -> 4294966598
+alternate_sum_4_simplified(212,317,757,241) -> 411
+alternate_sum_4_simplified(440,400,347,988) -> 4294966695
+alternate_sum_4_simplified(330,3,80,559) -> 4294967144
+alternate_sum_4_simplified(585,773,379,861) -> 4294966626
+alternate_sum_4_simplified(357,3,724,305) -> 773
+alternate_sum_4_simplified(408,78,828,85) -> 1073
+alternate_sum_4_simplified(295,131,540,649) -> 55
+alternate_sum_4_simplified(179,77,860,497) -> 465
+alternate_sum_4_simplified(279,311,254,88) -> 134
+alternate_sum_4_simplified(564,450,698,387) -> 425
+alternate_sum_4_simplified(828,989,546,918) -> 4294966763
+alternate_sum_4_simplified(146,58,533,827) -> 4294967090
+alternate_sum_4_simplified(442,538,685,442) -> 147
+alternate_sum_4_simplified(438,140,414,190) -> 522
+alternate_sum_4_simplified(818,568,999,219) -> 1030
+alternate_sum_4_simplified(202,869,128,783) -> 4294965974
+alternate_sum_4_simplified(734,183,560,467) -> 644
+alternate_sum_4_simplified(417,371,633,493) -> 186
+alternate_sum_4_simplified(494,258,85,660) -> 4294966957
+alternate_sum_4_simplified(558,667,444,891) -> 4294966740
+alternate_sum_4_simplified(16,758,661,228) -> 4294966987
+alternate_sum_4_simplified(253,870,124,433) -> 4294966370
+alternate_sum_4_simplified(685,503,447,41) -> 588
+alternate_sum_4_simplified(192,721,939,903) -> 4294966803
+alternate_sum_4_simplified(42,905,872,307) -> 4294966998
+alternate_sum_4_simplified(74,723,545,972) -> 4294966220
+alternate_sum_4_simplified(60,32,812,857) -> 4294967279
+alternate_sum_4_simplified(886,746,944,884) -> 200
+alternate_sum_4_simplified(91,53,526,268) -> 296
+alternate_sum_4_simplified(533,655,325,67) -> 136
+alternate_sum_4_simplified(884,589,389,460) -> 224
+alternate_sum_4_simplified(617,260,110,429) -> 38
+alternate_sum_4_simplified(856,604,727,75) -> 904
+alternate_sum_4_simplified(722,940,596,921) -> 4294966753
+alternate_sum_4_simplified(4,721,101,455) -> 4294966225
+alternate_sum_4_simplified(5,622,586,428) -> 4294966837
+alternate_sum_4_simplified(721,382,746,800) -> 285
+alternate_sum_4_simplified(518,726,872,981) -> 4294966979
+alternate_sum_4_simplified(763,835,856,187) -> 597
+alternate_sum_4_simplified(509,883,61,469) -> 4294966514
+alternate_sum_4_simplified(555,296,631,497) -> 393
+alternate_sum_4_simplified(669,200,726,566) -> 629
+alternate_sum_4_simplified(831,122,770,81) -> 1398
+alternate_sum_4_simplified(826,947,191,884) -> 4294966482
+alternate_sum_4_simplified(202,205,959,510) -> 446
+alternate_sum_4_simplified(142,275,154,902) -> 4294966415
+alternate_sum_4_simplified(213,287,329,680) -> 4294966871
+alternate_sum_4_simplified(543,31,626,389) -> 749
+alternate_sum_4_simplified(702,53,450,463) -> 636
+alternate_sum_4_simplified(178,284,80,742) -> 4294966528
+alternate_sum_4_simplified(773,38,186,655) -> 266
+alternate_sum_4_simplified(316,597,86,584) -> 4294966517
+alternate_sum_4_simplified(493,644,151,84) -> 4294967212
+alternate_sum_4_simplified(515,667,630,346) -> 132
+alternate_sum_4_simplified(876,276,706,672) -> 634
+alternate_sum_4_simplified(515,287,538,398) -> 368
+alternate_sum_4_simplified(821,700,9,498) -> 4294966928
+alternate_sum_4_simplified(24,646,628,797) -> 4294966505
+alternate_sum_4_simplified(604,94,401,478) -> 433
+alternate_sum_4_simplified(70,67,202,28) -> 177
+alternate_sum_4_simplified(448,315,957,662) -> 428
+alternate_sum_4_simplified(531,123,460,253) -> 615
+alternate_sum_4_simplified(428,736,886,942) -> 4294966932
+alternate_sum_4_simplified(131,244,362,932) -> 4294966613
+alternate_sum_4_simplified(773,260,650,338) -> 825
+alternate_sum_4_simplified(364,9,669,760) -> 264
+alternate_sum_4_simplified(604,462,440,79) -> 503
+alternate_sum_4_simplified(78,873,997,125) -> 77
+alternate_sum_4_simplified(746,733,925,403) -> 535
+alternate_sum_4_simplified(947,290,785,699) -> 743
+alternate_sum_4_simplified(664,858,8,308) -> 4294966802
+alternate_sum_4_simplified(816,734,326,581) -> 4294967123
+alternate_sum_4_simplified(563,840,147,667) -> 4294966499
+alternate_sum_4_simplified(657,280,484,402) -> 459
+alternate_sum_4_simplified(908,218,692,702) -> 680
+alternate_sum_4_simplified(81,787,819,627) -> 4294966782
+alternate_sum_4_simplified(545,751,480,821) -> 4294966749
+alternate_sum_4_simplified(453,249,600,588) -> 216
+alternate_sum_4_simplified(605,225,884,131) -> 1133
+alternate_sum_4_simplified(129,202,69,819) -> 4294966473
+alternate_sum_4_simplified(319,308,958,491) -> 478
+alternate_sum_4_simplified(98,865,968,104) -> 97
+alternate_sum_4_simplified(185,432,848,740) -> 4294967157
+alternate_sum_4_simplified(419,439,537,451) -> 66
+alternate_sum_4_simplified(458,825,610,385) -> 4294967154
+alternate_sum_4_simplified(478,291,786,303) -> 670
+alternate_sum_4_simplified(519,598,501,877) -> 4294966841
+alternate_sum_4_simplified(376,726,473,32) -> 91
+alternate_sum_4_simplified(939,736,174,58) -> 319
+alternate_sum_4_simplified(823,687,684,734) -> 86
+alternate_sum_4_simplified(919,361,348,843) -> 63
+alternate_sum_4_simplified(146,989,466,876) -> 4294966043
+alternate_sum_4_simplified(879,662,718,225) -> 710
+alternate_sum_4_simplified(607,620,92,894) -> 4294966481
+alternate_sum_4_simplified(228,803,191,657) -> 4294966255
+alternate_sum_4_simplified(843,727,700,960) -> 4294967152
+alternate_sum_4_simplified(682,694,410,646) -> 4294967048
+alternate_sum_4_simplified(489,323,853,327) -> 692
+
+alternate_sum_8
+
+alternate_sum_8(825,922,769,23,472,755,40,125) -> 281
+alternate_sum_8(323,607,880,161,441,46,284,516) -> 598
+alternate_sum_8(341,26,751,979,956,807,257,669) -> 4294967120
+alternate_sum_8(60,27,54,750,82,657,988,156) -> 4294966890
+alternate_sum_8(140,128,165,238,981,894,660,90) -> 596
+alternate_sum_8(861,321,408,293,965,796,929,206) -> 1547
+alternate_sum_8(370,153,98,449,789,812,831,203) -> 471
+alternate_sum_8(380,442,613,108,93,152,217,198) -> 403
+alternate_sum_8(458,692,584,233,744,235,109,786) -> 4294967245
+alternate_sum_8(989,586,923,226,783,867,258,236) -> 1038
+alternate_sum_8(242,29,358,777,765,807,213,313) -> 4294966948
+alternate_sum_8(51,612,149,504,669,862,630,319) -> 4294966498
+alternate_sum_8(44,929,635,99,133,887,354,846) -> 4294965701
+alternate_sum_8(651,337,918,975,105,503,241,112) -> 4294967284
+alternate_sum_8(680,697,189,890,245,313,83,531) -> 4294966062
+alternate_sum_8(562,618,323,32,293,215,468,64) -> 717
+alternate_sum_8(362,655,917,800,396,45,20,466) -> 4294967025
+alternate_sum_8(333,421,878,810,791,797,327,600) -> 4294966997
+alternate_sum_8(234,400,585,950,718,779,610,205) -> 4294967109
+alternate_sum_8(779,982,128,703,686,912,798,176) -> 4294966914
+alternate_sum_8(475,301,750,277,226,615,833,816) -> 275
+alternate_sum_8(99,492,362,984,498,144,657,762) -> 4294966530
+alternate_sum_8(549,887,760,48,574,215,938,922) -> 749
+alternate_sum_8(14,551,487,783,58,673,492,693) -> 4294965647
+alternate_sum_8(631,216,523,573,750,181,513,140) -> 1307
+alternate_sum_8(254,119,434,702,259,594,118,163) -> 4294966783
+alternate_sum_8(207,520,862,72,936,125,442,640) -> 1090
+alternate_sum_8(997,967,388,461,218,445,540,497) -> 4294967069
+alternate_sum_8(490,808,146,160,495,633,17,312) -> 4294966531
+alternate_sum_8(536,77,561,831,144,508,101,918) -> 4294966304
+alternate_sum_8(870,810,446,645,599,181,688,916) -> 51
+alternate_sum_8(3,667,21,55,15,457,761,478) -> 4294966439
+alternate_sum_8(568,180,935,858,195,801,54,654) -> 4294966555
+alternate_sum_8(977,362,995,1,316,781,765,492) -> 1417
+alternate_sum_8(404,803,145,887,871,27,183,643) -> 4294966539
+alternate_sum_8(438,134,361,608,681,374,106,896) -> 4294966870
+alternate_sum_8(590,115,626,303,404,810,970,397) -> 965
+alternate_sum_8(138,745,709,199,129,963,294,196) -> 4294966463
+alternate_sum_8(774,787,644,780,894,579,414,628) -> 4294967248
+alternate_sum_8(589,576,917,157,976,52,690,200) -> 2187
+alternate_sum_8(566,656,567,456,168,94,819,994) -> 4294967216
+alternate_sum_8(197,578,792,223,463,792,719,10) -> 568
+alternate_sum_8(798,715,697,705,564,672,205,650) -> 4294966818
+alternate_sum_8(406,577,463,116,757,561,20,524) -> 4294967164
+alternate_sum_8(187,17,892,741,596,525,273,832) -> 4294967129
+alternate_sum_8(294,59,531,383,870,828,587,801) -> 211
+alternate_sum_8(153,519,790,515,652,40,461,612) -> 370
+alternate_sum_8(645,19,296,65,66,29,209,997) -> 106
+alternate_sum_8(72,202,732,230,163,82,246,745) -> 4294967250
+alternate_sum_8(685,910,336,246,124,843,766,434) -> 4294966774
+alternate_sum_8(164,888,507,305,444,472,500,376) -> 4294966870
+alternate_sum_8(460,20,73,725,822,366,455,100) -> 599
+alternate_sum_8(469,870,7,509,220,825,664,259) -> 4294966193
+alternate_sum_8(33,867,699,155,725,33,226,868) -> 4294967056
+alternate_sum_8(719,107,314,472,702,551,292,928) -> 4294967265
+alternate_sum_8(38,715,572,850,666,500,258,472) -> 4294966293
+alternate_sum_8(143,116,621,778,832,881,434,838) -> 4294966713
+alternate_sum_8(182,639,244,717,407,598,867,689) -> 4294966353
+alternate_sum_8(234,220,86,27,451,225,448,426) -> 321
+alternate_sum_8(864,638,279,571,796,444,614,50) -> 850
+alternate_sum_8(593,512,818,86,786,883,914,733) -> 897
+alternate_sum_8(485,27,451,504,211,758,186,550) -> 4294966790
+alternate_sum_8(690,701,908,854,794,107,984,83) -> 1631
+alternate_sum_8(172,284,47,714,823,11,956,821) -> 168
+alternate_sum_8(576,628,271,700,2,20,847,884) -> 4294966760
+alternate_sum_8(521,531,633,46,732,183,509,221) -> 1414
+alternate_sum_8(343,403,997,788,591,506,915,941) -> 208
+alternate_sum_8(415,486,82,409,684,186,126,922) -> 4294966600
+alternate_sum_8(57,932,562,873,917,185,879,961) -> 4294966760
+alternate_sum_8(804,145,398,405,778,448,245,159) -> 1068
+alternate_sum_8(345,209,374,538,893,574,970,979) -> 282
+alternate_sum_8(808,808,530,564,352,366,82,274) -> 4294967056
+alternate_sum_8(678,745,616,721,813,729,220,379) -> 4294967049
+alternate_sum_8(27,259,237,270,402,384,432,80) -> 105
+alternate_sum_8(576,346,774,251,373,193,505,214) -> 1224
+alternate_sum_8(76,524,0,260,111,930,356,188) -> 4294965937
+alternate_sum_8(338,480,816,585,882,303,238,171) -> 735
+alternate_sum_8(904,991,4,391,674,789,516,855) -> 4294966368
+alternate_sum_8(513,861,731,342,168,172,218,333) -> 4294967218
+alternate_sum_8(933,734,695,486,87,913,934,55) -> 461
+alternate_sum_8(240,751,278,385,160,400,448,247) -> 4294966639
+alternate_sum_8(820,819,897,123,624,87,476,676) -> 1112
+alternate_sum_8(435,881,375,731,917,23,65,195) -> 4294967258
+alternate_sum_8(32,263,648,967,352,358,640,375) -> 4294967005
+alternate_sum_8(48,726,444,427,593,911,311,838) -> 4294965790
+alternate_sum_8(612,310,184,971,144,893,743,9) -> 4294966796
+alternate_sum_8(290,816,491,265,163,774,445,380) -> 4294966450
+alternate_sum_8(197,162,454,832,311,538,554,908) -> 4294966372
+alternate_sum_8(25,2,564,100,86,304,468,280) -> 457
+alternate_sum_8(54,255,569,5,688,508,839,184) -> 1198
+alternate_sum_8(974,671,213,68,768,855,257,783) -> 4294967131
+alternate_sum_8(500,380,183,94,905,816,931,25) -> 1204
+alternate_sum_8(838,382,72,274,307,68,758,850) -> 401
+alternate_sum_8(481,852,731,612,674,81,272,608) -> 5
+alternate_sum_8(672,152,615,77,298,657,747,895) -> 551
+alternate_sum_8(522,630,954,843,177,633,405,633) -> 4294966615
+alternate_sum_8(566,625,630,496,732,191,690,752) -> 554
+alternate_sum_8(186,144,406,668,839,743,845,70) -> 651
+alternate_sum_8(471,930,618,158,631,28,416,113) -> 907
+alternate_sum_8(562,249,591,588,942,508,934,927) -> 757
+
+product_2_f
+
+product_2_f(&dest,583,521.44) -> dest: 303997
+product_2_f(&dest,977,639.27) -> dest: 624568
+product_2_f(&dest,206,176.18) -> dest: 36293
+product_2_f(&dest,453,538.62) -> dest: 243993
+product_2_f(&dest,773,856.02) -> dest: 661703
+product_2_f(&dest,206,184.02) -> dest: 37907
+product_2_f(&dest,539,353.90) -> dest: 190753
+product_2_f(&dest,350,516.72) -> dest: 180850
+product_2_f(&dest,146,887.96) -> dest: 129642
+product_2_f(&dest,310,798.16) -> dest: 247428
+product_2_f(&dest,65,350.08) -> dest: 22755
+product_2_f(&dest,218,620.94) -> dest: 135364
+product_2_f(&dest,526,283.44) -> dest: 149091
+product_2_f(&dest,843,917.33) -> dest: 773306
+product_2_f(&dest,737,615.02) -> dest: 453273
+product_2_f(&dest,291,935.13) -> dest: 272122
+product_2_f(&dest,36,443.85) -> dest: 15978
+product_2_f(&dest,835,654.10) -> dest: 546177
+product_2_f(&dest,379,918.57) -> dest: 348139
+product_2_f(&dest,838,331.86) -> dest: 278099
+product_2_f(&dest,115,241.49) -> dest: 27770
+product_2_f(&dest,829,434.28) -> dest: 360015
+product_2_f(&dest,271,407.94) -> dest: 110550
+product_2_f(&dest,946,702.69) -> dest: 664748
+product_2_f(&dest,396,808.93) -> dest: 320334
+product_2_f(&dest,428,201.65) -> dest: 86306
+product_2_f(&dest,38,254.61) -> dest: 9675
+product_2_f(&dest,621,591.13) -> dest: 367092
+product_2_f(&dest,380,419.75) -> dest: 159504
+product_2_f(&dest,949,566.95) -> dest: 538037
+product_2_f(&dest,765,409.24) -> dest: 313069
+product_2_f(&dest,512,304.56) -> dest: 155935
+product_2_f(&dest,337,303.23) -> dest: 102189
+product_2_f(&dest,487,861.93) -> dest: 419759
+product_2_f(&dest,116,828.13) -> dest: 96063
+product_2_f(&dest,427,524.00) -> dest: 223749
+product_2_f(&dest,6,285.40) -> dest: 1712
+product_2_f(&dest,955,549.97) -> dest: 525217
+product_2_f(&dest,998,598.07) -> dest: 596873
+product_2_f(&dest,927,258.59) -> dest: 239716
+product_2_f(&dest,121,511.94) -> dest: 61944
+product_2_f(&dest,938,505.25) -> dest: 473922
+product_2_f(&dest,706,586.46) -> dest: 414038
+product_2_f(&dest,407,52.35) -> dest: 21307
+product_2_f(&dest,574,962.59) -> dest: 552527
+product_2_f(&dest,785,250.32) -> dest: 196501
+product_2_f(&dest,886,272.37) -> dest: 241323
+product_2_f(&dest,944,269.52) -> dest: 254425
+product_2_f(&dest,391,760.81) -> dest: 297475
+product_2_f(&dest,218,940.01) -> dest: 204921
+product_2_f(&dest,175,315.31) -> dest: 55179
+product_2_f(&dest,87,283.54) -> dest: 24668
+product_2_f(&dest,431,734.96) -> dest: 316768
+product_2_f(&dest,615,734.37) -> dest: 451635
+product_2_f(&dest,131,111.66) -> dest: 14627
+product_2_f(&dest,323,189.45) -> dest: 61193
+product_2_f(&dest,120,879.21) -> dest: 105505
+product_2_f(&dest,199,777.53) -> dest: 154728
+product_2_f(&dest,873,992.37) -> dest: 866337
+product_2_f(&dest,124,798.94) -> dest: 99068
+product_2_f(&dest,362,60.45) -> dest: 21883
+product_2_f(&dest,658,401.90) -> dest: 264452
+product_2_f(&dest,328,746.18) -> dest: 244748
+product_2_f(&dest,964,17.69) -> dest: 17054
+product_2_f(&dest,548,161.10) -> dest: 88284
+product_2_f(&dest,526,738.10) -> dest: 388241
+product_2_f(&dest,11,916.32) -> dest: 10079
+product_2_f(&dest,101,383.77) -> dest: 38761
+product_2_f(&dest,139,663.84) -> dest: 92273
+product_2_f(&dest,538,517.80) -> dest: 278579
+product_2_f(&dest,729,453.71) -> dest: 330757
+product_2_f(&dest,801,981.06) -> dest: 785826
+product_2_f(&dest,259,501.65) -> dest: 129926
+product_2_f(&dest,815,803.41) -> dest: 654781
+product_2_f(&dest,808,439.63) -> dest: 355218
+product_2_f(&dest,908,29.87) -> dest: 27121
+product_2_f(&dest,915,433.01) -> dest: 396205
+product_2_f(&dest,852,198.33) -> dest: 168977
+product_2_f(&dest,693,900.02) -> dest: 623711
+product_2_f(&dest,304,201.31) -> dest: 61197
+product_2_f(&dest,559,466.61) -> dest: 260836
+product_2_f(&dest,312,608.96) -> dest: 189996
+product_2_f(&dest,720,363.42) -> dest: 261665
+product_2_f(&dest,705,690.41) -> dest: 486736
+product_2_f(&dest,725,313.13) -> dest: 227017
+product_2_f(&dest,777,104.88) -> dest: 81493
+product_2_f(&dest,91,617.65) -> dest: 56205
+product_2_f(&dest,423,839.06) -> dest: 354923
+product_2_f(&dest,232,239.66) -> dest: 55602
+product_2_f(&dest,164,769.48) -> dest: 126194
+product_2_f(&dest,864,901.19) -> dest: 778624
+product_2_f(&dest,770,17.47) -> dest: 13453
+product_2_f(&dest,86,204.35) -> dest: 17574
+product_2_f(&dest,881,292.49) -> dest: 257686
+product_2_f(&dest,694,94.69) -> dest: 65716
+product_2_f(&dest,209,888.76) -> dest: 185750
+product_2_f(&dest,566,583.23) -> dest: 330109
+product_2_f(&dest,271,22.59) -> dest: 6122
+product_2_f(&dest,554,464.01) -> dest: 257059
+product_2_f(&dest,537,856.84) -> dest: 460122

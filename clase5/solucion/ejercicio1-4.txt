@@ -1,0 +1,33 @@
+Ejercicio 1
+
+Modo real:Es el modo en el cual iniciamos cuando prendemos la compu. Provee de 1MB de memoria disponible, no tiene niveles de proteccion, tiene rutinas de atencion sin niveles de proteccion y se puede usar todo el set de instrucciones que se provee para el modo real.
+
+Modo protegido:Es el modo nativo en el cual opera el procesador. Provee de 4GB de memoria disponible, tiene 4 niveles de proteccion, tiene rutinas de atencion con niveles de proteccion y se puede usar un set limitado de instrucciones. El kernel puede usar cualquier instruccion.
+
+ejercicio 2
+
+Lo debemos hacer para poder trabajar con el kernel, niveles de proteccion y mayor espacio de direccionamiento. Podriamos, pero no seriamos tan libres a la hora de hacer tareas. Tenemos menos espacio de direccionamiento, no podriamos usar niveles de proteccion (O sea tendria nivel kernel??) y nos limitaria las instrucciones al modo real.
+
+
+Ejercicio 3:
+
+La gdt es un estructura de datos en un espacio de una direccion lineal
+
+Limit: especifica el maximo offset que puede tener un byte direccionable dentro del segmento.
+
+base: es la direccion a partir de la cual se despliega el segmento.
+
+g: es el bit de granularidad, indica si estamos hablando de bytes o de paginas (4kb) cuando hablamos de limit
+
+p: es el bit de present, que refiere a si esta presente o no la GDT.
+
+dpl: Es el nivel de privilegio que se necesita para poder acceder a este segmento.
+
+s: Especifica si es un segmento de system (0) o de codigo/data (1)
+
+Ejercicio 4:
+
+necesitariamos el 1010.
+
+
+

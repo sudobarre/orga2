@@ -1,0 +1,24 @@
+a)
+Tenemos dos niveles, kernel (0) y usuario (1)
+b)
+La direccion virtual se divide en 3 partes:
+	-los 10 bits mas altos van a indicar en que entrada del directorio vamos a buscar la ubicacion de la tabla de paginas que necesitemos.(pd_index)
+	-Los siguientes 10 bits van a indicar en que entrada de la pagina vamos a buscar la ubicacion de la direccion base de la pagina necesaria.(pt_index)
+	-Los ultimos 12 bits van a ser el desplazamiento desde la base a donde esta el dato esperado.(page_offset)
+
+El CR3 es el que indica la direccion de la pagina donde se encuentra el directorio a utilizar para traducir las direcciones virtuales.
+
+Se dividen en un directorio de paginas el cual cada entrada es una page table y la page table apunta a una una pagina de 4KiB
+
+Ahora el selector de segmento apunta a una linear address que esta ultima va a ser lo que se tiene que traducir.
+
+c)
+D : se setea cuando se escribe en la pagina
+A : se setea cuando se escribe o lee en la pagina
+PCD : Hace que no se almacene en memoria rapida (Asumo que refiere a la cache)
+PWT : La escritura se refleja en cache y memoria a la vez, pero cuando no esta seteado solo se actualiza la memoria cuando se desaloja la linea de cache
+U/S : Indica si la pagina puede ser accedida por usuario (1) o kernel (0)
+R/W : Indica si la pagina se puede leer/escribir (1) o solo leer (0)
+P : Indica si la pagina se encuentra cargada en memoria o no
+	
+e) Es como una cache de traducciones. Para evitar que las traducciones pre-computadas que ya no son validas se sigan empleando.
